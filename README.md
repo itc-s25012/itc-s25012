@@ -26,3 +26,12 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
+# 💡 興味・関心
+
+- 🛡️ サイバーセキュリティと、不正アクセスへの対策
+- 🔍 ハッキングの仕組みや、攻撃手法の学習
+- 💻 プログラミングを活用した攻撃の検知・防御
+- 🍀 身近な困りごとや、日常の不便を解消するアプリづくり
+
+  
+
