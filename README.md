@@ -77,6 +77,7 @@
 駐車場の管理者と連携し、防犯カメラの映像から空き状況を判定して、
 リアルタイムで確認できる機能の実現を目指しています。
 
-### URL
-parkpal-okinawa.vercel.app
+## 🌐 アプリのURL
+
+[🚗 ParkPal Okinawaを開く](https://parkpal-okinawa.vercel.app/)
 
